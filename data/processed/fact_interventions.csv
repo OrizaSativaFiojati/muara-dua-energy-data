@@ -1,0 +1,33 @@
+Intervention ID,Well ID,Intervention Type,Date,Duration (days),Result,Cost (USD),Oil Rate Before (bpd),Oil Rate After (bpd),Uplift %,Remarks,cost_usd_clean,oil_rate_diff_bpd,uplift_pct,final_result
+INT-001,TM-003,Workover - Artificial Lift Installation,2023-07-16,15,Partial Success,189000,347.5,369.9,6.4,"Moderate improvement, monitoring ongoing",189000.0,22.399999999999977,6.055690727223568,Partial Success
+INT-002,TM-004,Workover - Artificial Lift Installation,2024-06-10,9,Success,95000,663.6,927.8,39.8,Production stabilized at higher rate,95000.0,264.19999999999993,28.475964647553347,Success
+INT-003,BH-005,Well Stimulation - Acidizing,2024-11-14,5,Success,274000,552.3,740.3,34.0,"Good result, sustained production increase",274000.0,188.0,25.395110090503852,Success
+INT-004,SB-006,Casing Repair,2019-11-19,3,Partial Success,nan,628.7,699.3,11.2,"Short-lived improvement, re-evaluation needed",0.0,70.59999999999991,10.095810095810084,Partial Success
+INT-005,SB-006,Pump Replacement,2018-12-23,9,Failed,65000,751.3,711.5,-5.3,No significant change in production,65000.0,-39.799999999999955,-5.593815881939558,Failed
+INT-006,TM-007,Workover - Zone Change,2020-09-02,19,Success,119000,509.4,753.0,47.8,Recommend similar treatment for offset wells,119000.0,243.60000000000002,32.35059760956175,Success
+INT-007,TM-007,Workover - Artificial Lift Installation,2025-03-27,21,Success,"138,000",55.4,65.2,17.7,Recommend similar treatment for offset wells,138000.0,9.800000000000004,15.030674846625772,Partial Success
+INT-008,TM-007,Casing Repair,2022-07-26,6,Partial Success,"$57,000",145.6,162.9,11.9,"Moderate improvement, monitoring ongoing",57000.0,17.30000000000001,10.620012277470847,Partial Success
+INT-009,SB-008,Well Stimulation - Hydraulic Fracturing,2021-09-11,13,Success,"$129,000",421.7,1307.27,210.5,Exceeded expectations,129000.0,885.5699999999999,67.74193548387096,Success
+INT-010,SB-009,Casing Repair,2023-12-26,10,Failed,"$71,000",973.6,938.3,-3.6,Mechanical issue during operation,71000.0,-35.30000000000007,-3.762122988383253,Failed
+INT-011,SB-009,Workover - Artificial Lift Installation,2024-08-04,21,Partial Success,"$177,000",795.8,900.8,13.2,"Short-lived improvement, re-evaluation needed",177000.0,105.0,11.656305506216697,Partial Success
+INT-012,BH-010,Tubing Repair,2024-06-13,10,Failed,"$91,000",116.2,113.1,-2.7,No significant change in production,91000.0,-3.1000000000000085,-2.740937223695852,Failed
+INT-013,BH-010,Casing Repair,2025-02-25,10,Partial Success,"$91,000",53.5,57.2,6.9,Below target uplift but positive ROI,91000.0,3.700000000000003,6.468531468531473,Partial Success
+INT-014,BH-011,Water Shut-off,2022-10-03,4,Success,"53,000",270.3,338.7,25.3,Recommend similar treatment for offset wells,53000.0,68.39999999999998,20.194862710363147,Success
+INT-015,BH-011,Workover - Reperforating,2024-09-21,17,Partial Success,"109,000",161.9,179.0,10.6,"Short-lived improvement, re-evaluation needed",109000.0,17.099999999999994,9.55307262569832,Partial Success
+INT-016,SB-012,Pump Replacement,2022-09-28,8,Partial Success,"$25,000",159.0,172.0,8.2,"Short-lived improvement, re-evaluation needed",25000.0,13.0,7.55813953488372,Partial Success
+INT-017,SB-013,Tubing Repair,2025-06-07,7,Partial Success,60000,319.5,348.0,8.9,"Short-lived improvement, re-evaluation needed",60000.0,28.5,8.189655172413794,Partial Success
+INT-018,SB-013,Well Stimulation - Acidizing,2024-03-13,6,Partial Success,"195,000",785.0,838.0,6.7,"Short-lived improvement, re-evaluation needed",195000.0,53.0,6.324582338902148,Partial Success
+INT-019,BH-015,Tubing Repair,2023-03-12,10,Partial Success,"60,000",528.2,600.7,13.7,"Short-lived improvement, re-evaluation needed",60000.0,72.5,12.069252538704843,Partial Success
+INT-020,SB-016,Well Stimulation - Hydraulic Fracturing,2022-05-28,8,Partial Success,335000,1581.1,1723.7,9.0,Below target uplift but positive ROI,335000.0,142.60000000000014,8.27290131693451,Partial Success
+INT-021,SB-016,Sand Clean-out,2025-02-13,4,Success,81000,596.4,716.9,20.2,Production stabilized at higher rate,81000.0,120.5,16.808480959687543,Partial Success
+INT-022,BH-017,Tubing Repair,2023-01-24,2,Partial Success,48000,174.5,188.5,8.0,Below target uplift but positive ROI,48000.0,14.0,7.427055702917771,Partial Success
+INT-023,BH-017,Workover - Zone Change,2020-08-17,10,Partial Success,"223,000",670.6,710.9,6.0,"Moderate improvement, monitoring ongoing",223000.0,40.299999999999955,5.668870445913624,Partial Success
+INT-024,TM-018,Well Stimulation - Hydraulic Fracturing,2023-09-08,11,Partial Success,"$210,000",386.5,443.8,14.8,"Moderate improvement, monitoring ongoing",210000.0,57.30000000000001,12.911221270842724,Partial Success
+INT-025,BH-020,Pump Replacement,2025-02-05,3,Failed,"70,000",192.5,187.4,-2.6,Formation did not respond as expected,70000.0,-5.099999999999994,-2.7214514407684067,Failed
+INT-026,BH-020,Tubing Repair,2022-09-13,10,Success,"$28,000",1179.6,1795.2,52.2,Production stabilized at higher rate,28000.0,615.6000000000001,34.29144385026739,Success
+INT-027,TM-021,Tubing Repair,2023-12-20,7,Success,78000,202.9,283.1,39.5,Exceeded expectations,78000.0,80.20000000000002,28.329212292476157,Success
+INT-028,SB-022,Workover - Artificial Lift Installation,2025-02-23,12,Partial Success,119000,322.9,344.4,6.6,Below target uplift but positive ROI,119000.0,21.5,6.242740998838561,Partial Success
+INT-029,SB-023,Workover - Zone Change,2020-03-02,8,Partial Success,133000,1193.2,1326.6,11.2,"Short-lived improvement, re-evaluation needed",133000.0,133.39999999999986,10.055781697572733,Partial Success
+INT-030,TM-024,Pump Replacement,2020-07-07,5,Failed,"107,000",310.9,298.9,-3.9,No significant change in production,107000.0,-12.0,-4.014720642355303,Failed
+INT-031,TM-024,Workover - Artificial Lift Installation,2019-10-13,13,Partial Success,"$184,000",624.2,686.8,10.0,"Short-lived improvement, re-evaluation needed",184000.0,62.59999999999991,9.114735002912044,Partial Success
+INT-032,SB-025,Well Stimulation - Hydraulic Fracturing,2023-08-24,10,Partial Success,"249,000",298.8,331.9,11.1,"Short-lived improvement, re-evaluation needed",249000.0,33.099999999999966,9.972883398614032,Partial Success

@@ -1,0 +1,26 @@
+well_id,well_name,field,well_type,status,spud_date,latitude,longitude,operator,measured_depth_md,true_vertical_depth_tvd,tvdss,depth_unit
+TM-007,Tanjung Merah Well 7,Tanjung Merah,Vertical,Active,2019-01-06,-1.46549,116.20023,PT Muara Dua Energy,9940.9452,9857.611864,9787.401887999999,feet
+SB-006,Sungai Biru Well 6,Sungai Biru,Directional,Active,2018-01-03,-1.80725,116.53048,PT Muara Dua Energy,9225.72208,9881.89008,6803.149824,feet
+SB-016,Sungai Biru Well 16,Sungai Biru,Horizontal,Active,2021-01-05,-1.821,116.50588,PT Muara Dua Energy,9186.352,5988.517252,5922.572368,feet
+SB-025,Sungai Biru Well 25,Sungai Biru,Vertical,Active,2022-01-02,-1.77986,116.43216,PT Muara Dua Energy,10718.5,10475.7,10408.5,feet
+BH-017,Bukit Harapan Well 17,Bukit Harapan,Vertical,Active,2019-01-11,-1.3152,116.00945,PT Muara Dua Energy,12874.01616,12272.310104,12129.593563999999,feet
+BH-011,Bukit Harapan Well 11,Bukit Harapan,Vertical,Active,2019-01-12,-1.32131,116.00164,PT Muara Dua Energy,5456.03692,5350.065788,5287.07366,feet
+SB-012,Sungai Biru  Well 12,Sungai Biru,Horizontal,Active,2018-04-01,-1.81905,116.51647,PT Muara Dua Energy,11551.83764,6619.750868,6534.449028,feet
+TM-024,Tanjung Merah Well 24,Tanjung Merah,Directional,Shut-In,2018-01-03,-1.42122,116.18057,PT Muara Dua Energy,6551.8,5220.1,5119.8,feet
+TM-018,Tanjung Merah Well 18,Tanjung Merah,Horizontal,Active,2019-01-01,-1.4955,116.20171,PT Muara Dua Energy,12260.49908,9089.895304,8960.958292000001,feet
+BH-001,Bukit Harapan Well 1,Bukit Harapan,Directional,Active,2018-01-01,-1.31731,116.01794,PT Muara Dua Energy,10925.2,8807.7,8665.0,feet
+TM-021,Tanjung Merah Well 21,Tanjung Merah,Vertical,Active,2020-01-03,-1.42173,116.17174,PT Muara Dua Energy,11719.2,11204.7,11106.6,feet
+BH-015,Bukit Harapan Well 15,Bukit Harapan,Directional,Active,,-1.28635,115.96234,PT Muara Dua Energy,7043.96348,5908.79284,5854.987064,feet
+TM-019,Tanjung Merah Well 19,Tanjung Merah,Horizontal,Active,2019-01-10,-1.41842,116.1822,PT Muara Dua Energy,5646.32564,3253.280944,3194.5539080000003,feet
+BH-020,Bukit Harapan Well 20,Bukit Harapan,Horizontal,Active,2021-01-07,-1.28703,115.95121,PT Muara Dua Energy,7588.58292,5092.519848,5000.00016,feet
+SB-023,Sungai Biru Well 23,Sungai Biru,Directional,Active,2019-01-03,-1.80268,116.51886,PT Muara Dua Energy,5531.49624,4363.1891160000005,4248.6878,feet
+TM-003,Tanjung Merah Well 3,Tanjung Merah,Vertical,Active,2022-01-07,-1.41627,116.1642,PT Muara Dua Energy,9852.4,9436.7,9372.0,feet
+TM-002,Tanjung Merah Well 2,Tanjung Merah,Directional,Shut-In,2023-02-01,-1.42464,116.18326,PT Muara Dua Energy,6200.7876,5331.365,5223.09728,feet
+SB-022,Sungai Biru Well 22,Sungai Biru,Vertical,Active,2023-01-10,-1.81152,116.52501,PT Muara Dua Energy,9373.35988,8920.932044,8782.152512,feet
+SB-008,Sungai Biru Well 8,Tanjung Merah,Vertical,Active,2020-01-10,-1.78411,116.45481,PT Muara Dua Energy,7926.5,7602.4,7535.1,feet
+SB-009,Sungai Biru Well 9,Sungai Biru,Horizontal,Active,2022-02-01,-1.789,116.43868,PT Muara Dua Energy,6558.4,3777.9,3677.2,feet
+SB-013,Sungai Biru Well 13,Sungai Biru,Vertical,Active,2023-01-06,-1.79496,116.45233,PT Muara Dua Energy,10534.77724,10248.359907999999,10121.719484,feet
+BH-010,Bukit Harapan Well 10,Bukit Harapan,Directional,Shut-In,2020-01-11,-1.32089,116.00807,PT Muara Dua Energy,5301.83744,4319.882028,4242.12612,feet
+BH-014,Bukit Harapan Well 14,Bukit Harapan,Horizontal,Active,2020-01-12,-1.32929,116.00364,PT Muara Dua Energy,8982.9,4940.0,4840.2,feet
+TM-004,Tanjung Merah Well 4,Tanjung Merah,Vertical,Active,2022-10-01,-1.48835,116.18555,PT Muara Dua Energy,12877.3,12270.7,12136.2,feet
+BH-005,Bukit Harapan Well 5,Bukit Harapan,Vertical,Active,2023-01-09,-1.26745,115.9542,PT Muara Dua Energy,6414.0,6286.1,6167.3,feet
